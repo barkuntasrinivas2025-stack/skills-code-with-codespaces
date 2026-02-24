@@ -8,7 +8,8 @@
     "vscode": {
       "extensions": [
         "ms-python.vscode-pylance",
-        "ms-python.python"
+        "ms-python.python",
+        "ms-python.debugpy"
       ]
     }
   }
